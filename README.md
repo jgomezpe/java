@@ -16,3 +16,10 @@ A Java version of the code in the javascript repositories
 &nbsp;API documentation: <A HREF="https://numtseng.com/api/lifya/java/">https://numtseng.com/api/lifya/java/</A>
 
 &nbsp;Compilation requires kompari.jar available at <A HREF="https://github.com/jgomezpe/libs/">https://github.com/jgomezpe/libs/</A>
+
+<h3>JSON</h3>
+&nbsp;Ready to use: <A HREF="https://github.com/jgomezpe/libs/json.jar">https://github.com/jgomezpe/libs/json.jar</A>
+
+&nbsp;API documentation: <A HREF="https://numtseng.com/api/json/java/">https://numtseng.com/api/json/java/</A>
+
+&nbsp;Compilation requires lifya.jar available at <A HREF="https://github.com/jgomezpe/libs/">https://github.com/jgomezpe/libs/</A>
